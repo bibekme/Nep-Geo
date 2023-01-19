@@ -1,0 +1,938 @@
+[
+  {
+    "model": "geo.district",
+    "pk": 1,
+    "fields": {
+      "idx": "jNtKpbSFrsMXiQifqJy7qh",
+      "created_on": "2016-12-08T11:08:38.401Z",
+      "modified_on": "2019-07-09T05:56:44.068Z",
+      "is_obsolete": false,
+      "name": "Kathmandu",
+      "province": 3
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 2,
+    "fields": {
+      "idx": "kuVuQNsqDxVWnzzXtjyf6Q",
+      "created_on": "2016-12-08T11:08:38.401Z",
+      "modified_on": "2019-07-09T05:56:43.124Z",
+      "is_obsolete": false,
+      "name": "Bhaktapur",
+      "province": 3
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 3,
+    "fields": {
+      "idx": "2jEs6DaEr2ht723Z5QfM4N",
+      "created_on": "2016-12-08T11:08:38.401Z",
+      "modified_on": "2019-07-09T05:56:44.135Z",
+      "is_obsolete": false,
+      "name": "Lalitpur",
+      "province": 3
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 4,
+    "fields": {
+      "idx": "RpnfesnNn8L2SstZzBekxC",
+      "created_on": "2016-12-08T11:08:38.401Z",
+      "modified_on": "2019-07-09T05:56:43.840Z",
+      "is_obsolete": false,
+      "name": "Jhapa",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 5,
+    "fields": {
+      "idx": "rVkah5gPwWpddsPpk8ZqkA",
+      "created_on": "2016-12-08T11:08:38.401Z",
+      "modified_on": "2019-07-09T05:56:43.772Z",
+      "is_obsolete": false,
+      "name": "Ilam",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 6,
+    "fields": {
+      "idx": "3iKiTXqT5BXUZuofxbbJJb",
+      "created_on": "2016-12-08T11:08:38.401Z",
+      "modified_on": "2019-07-09T05:56:44.238Z",
+      "is_obsolete": false,
+      "name": "Morang",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 7,
+    "fields": {
+      "idx": "tsHxFxfotfW7zVhVCF5GgN",
+      "created_on": "2016-12-08T11:08:38.401Z",
+      "modified_on": "2019-07-09T05:56:44.767Z",
+      "is_obsolete": false,
+      "name": "Sunsari",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 8,
+    "fields": {
+      "idx": "hEYpFRuCvoJH652ZHP3T6d",
+      "created_on": "2016-12-08T11:08:38.401Z",
+      "modified_on": "2019-07-09T05:56:43.034Z",
+      "is_obsolete": false,
+      "name": "Bara",
+      "province": 2
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 9,
+    "fields": {
+      "idx": "4UGCsRePhLpJuDEYcF2Wsm",
+      "created_on": "2016-12-08T11:08:38.401Z",
+      "modified_on": "2019-07-09T05:56:43.184Z",
+      "is_obsolete": false,
+      "name": "Chitwan",
+      "province": 3
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 10,
+    "fields": {
+      "idx": "DcfXL5FdzFgTA68M2EqgRm",
+      "created_on": "2018-08-09T06:15:10.194Z",
+      "modified_on": "2019-07-09T05:56:44.353Z",
+      "is_obsolete": false,
+      "name": "Panchthar",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 11,
+    "fields": {
+      "idx": "ERDQhUD544ip9tiwytMQP7",
+      "created_on": "2018-08-09T06:15:10.334Z",
+      "modified_on": "2019-07-09T05:56:44.843Z",
+      "is_obsolete": false,
+      "name": "Taplejung",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 12,
+    "fields": {
+      "idx": "AxmaMtLUvPmAn6QhS4ghxZ",
+      "created_on": "2018-08-09T06:15:10.419Z",
+      "modified_on": "2019-07-09T05:56:43.154Z",
+      "is_obsolete": false,
+      "name": "Bhojpur",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 13,
+    "fields": {
+      "idx": "ecTfxzDoU2uy9DRCdqHn2i",
+      "created_on": "2018-08-09T06:15:10.475Z",
+      "modified_on": "2019-07-09T05:56:43.407Z",
+      "is_obsolete": false,
+      "name": "Dhankuta",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 14,
+    "fields": {
+      "idx": "g3uvv4AwzDSqWejadCd3Qc",
+      "created_on": "2018-08-09T06:15:10.501Z",
+      "modified_on": "2019-07-09T05:56:44.587Z",
+      "is_obsolete": false,
+      "name": "Sankhuwasabha",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 15,
+    "fields": {
+      "idx": "VnKRMsnKUt6ScxPKGDameZ",
+      "created_on": "2018-08-09T06:15:10.521Z",
+      "modified_on": "2019-07-09T05:56:44.868Z",
+      "is_obsolete": false,
+      "name": "Terhathum",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 16,
+    "fields": {
+      "idx": "gWZnaLn3gLzWh7kTGGuQTi",
+      "created_on": "2018-08-09T06:15:10.535Z",
+      "modified_on": "2019-07-09T05:56:44.120Z",
+      "is_obsolete": false,
+      "name": "Khotang",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 17,
+    "fields": {
+      "idx": "Q8GBw7djXsgbjBQ9ncgHe7",
+      "created_on": "2018-08-09T06:15:10.546Z",
+      "modified_on": "2019-07-09T05:56:44.322Z",
+      "is_obsolete": false,
+      "name": "Okhaldhunga",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 18,
+    "fields": {
+      "idx": "VU4ZY7C8xXbpBqjiKjBYZ6",
+      "created_on": "2018-08-09T06:15:10.557Z",
+      "modified_on": "2019-07-09T05:56:44.611Z",
+      "is_obsolete": false,
+      "name": "Saptari",
+      "province": 2
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 19,
+    "fields": {
+      "idx": "kgWq59mcUpFZnjECPsdLoU",
+      "created_on": "2018-08-09T06:15:10.568Z",
+      "modified_on": "2019-07-09T05:56:44.690Z",
+      "is_obsolete": false,
+      "name": "Siraha",
+      "province": 2
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 20,
+    "fields": {
+      "idx": "hLWMvXYz9VZwLFKgtMaPnS",
+      "created_on": "2018-08-09T06:15:10.579Z",
+      "modified_on": "2019-07-09T05:56:44.751Z",
+      "is_obsolete": false,
+      "name": "Solukhumbu",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 21,
+    "fields": {
+      "idx": "CdC9pJcVf5Hr55VJXoxboG",
+      "created_on": "2018-08-09T06:15:10.590Z",
+      "modified_on": "2019-07-09T05:56:44.885Z",
+      "is_obsolete": false,
+      "name": "Udayapur",
+      "province": 1
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 22,
+    "fields": {
+      "idx": "57LTYEJ9vnxz9Bo7b6nv4d",
+      "created_on": "2018-08-09T06:15:10.602Z",
+      "modified_on": "2019-07-09T05:56:43.440Z",
+      "is_obsolete": false,
+      "name": "Dhanusa",
+      "province": 2
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 23,
+    "fields": {
+      "idx": "m5Jry6WSuPhzjpzL3UwBzQ",
+      "created_on": "2018-08-09T06:15:10.613Z",
+      "modified_on": "2019-07-09T05:56:43.497Z",
+      "is_obsolete": false,
+      "name": "Dolakha",
+      "province": 3
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 24,
+    "fields": {
+      "idx": "gNK2gv8W6ytebWwPiG8RMH",
+      "created_on": "2018-08-09T06:15:10.624Z",
+      "modified_on": "2019-07-09T05:56:44.183Z",
+      "is_obsolete": false,
+      "name": "Mahottari",
+      "province": 2
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 25,
+    "fields": {
+      "idx": "6X6Bgir9Bev8XM66z8X5zT",
+      "created_on": "2018-08-09T06:15:10.635Z",
+      "modified_on": "2019-07-09T05:56:44.458Z",
+      "is_obsolete": false,
+      "name": "Ramechhap",
+      "province": 3
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 26,
+    "fields": {
+      "idx": "bT7PN8EjtBWfwvNcT856JX",
+      "created_on": "2018-08-09T06:15:10.646Z",
+      "modified_on": "2019-07-09T05:56:44.639Z",
+      "is_obsolete": false,
+      "name": "Sarlahi",
+      "province": 2
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 27,
+    "fields": {
+      "idx": "ruhuU3tz6nB4kYZbaXtZ6E",
+      "created_on": "2018-08-09T06:15:10.657Z",
+      "modified_on": "2019-07-09T05:56:44.662Z",
+      "is_obsolete": false,
+      "name": "Sindhuli",
+      "province": 3
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 28,
+    "fields": {
+      "idx": "AJX6xZG8H3ZshKwmDniQXa",
+      "created_on": "2018-08-09T06:15:10.673Z",
+      "modified_on": "2019-07-09T05:56:43.357Z",
+      "is_obsolete": false,
+      "name": "Dhading",
+      "province": 3
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 29,
+    "fields": {
+      "idx": "anmfBHwuGdEi8mwjC6roxC",
+      "created_on": "2018-08-09T06:15:10.725Z",
+      "modified_on": "2019-07-09T05:56:44.098Z",
+      "is_obsolete": false,
+      "name": "Kavrepalanchok",
+      "province": 3
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 30,
+    "fields": {
+      "idx": "vKWAtJNs7qNwHtndkpnzw4",
+      "created_on": "2018-08-09T06:15:10.745Z",
+      "modified_on": "2019-07-09T05:56:44.303Z",
+      "is_obsolete": false,
+      "name": "Nuwakot",
+      "province": 3
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 31,
+    "fields": {
+      "idx": "eWFZNJPaCxaBgcspc6KYBZ",
+      "created_on": "2018-08-09T06:15:10.762Z",
+      "modified_on": "2019-07-09T05:56:44.480Z",
+      "is_obsolete": false,
+      "name": "Rasuwa",
+      "province": 3
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 32,
+    "fields": {
+      "idx": "Qvja2eVccenn4Qidzbd7M3",
+      "created_on": "2018-08-09T06:15:10.779Z",
+      "modified_on": "2019-07-09T05:56:44.675Z",
+      "is_obsolete": false,
+      "name": "Sindhupalchok",
+      "province": 3
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 33,
+    "fields": {
+      "idx": "GUUruevFvos4zuqkvUKBL9",
+      "created_on": "2018-08-09T06:15:10.795Z",
+      "modified_on": "2019-07-09T05:56:44.214Z",
+      "is_obsolete": false,
+      "name": "Makwanpur",
+      "province": 3
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 34,
+    "fields": {
+      "idx": "9dp2ddfyXsDAXmoq4ND6JY",
+      "created_on": "2018-08-09T06:15:10.801Z",
+      "modified_on": "2019-07-09T05:56:44.386Z",
+      "is_obsolete": false,
+      "name": "Parsa",
+      "province": 2
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 35,
+    "fields": {
+      "idx": "D4sxeebWLDPbrQXdExwn9f",
+      "created_on": "2018-08-09T06:15:10.812Z",
+      "modified_on": "2019-07-09T05:56:44.498Z",
+      "is_obsolete": false,
+      "name": "Rautahat",
+      "province": 2
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 36,
+    "fields": {
+      "idx": "Ztv5ZJxKrKCt9dGCQTjdxY",
+      "created_on": "2018-08-09T06:15:10.824Z",
+      "modified_on": "2019-07-09T05:56:43.644Z",
+      "is_obsolete": false,
+      "name": "Gorkha",
+      "province": 4
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 37,
+    "fields": {
+      "idx": "MRF5yz2K9CwxHLRpGabGmL",
+      "created_on": "2018-08-09T06:15:10.835Z",
+      "modified_on": "2019-07-09T05:56:44.046Z",
+      "is_obsolete": false,
+      "name": "Kaski",
+      "province": 4
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 38,
+    "fields": {
+      "idx": "qUYRtU5pnCdctNw9nQ7SXg",
+      "created_on": "2018-08-09T06:15:10.846Z",
+      "modified_on": "2019-07-09T05:56:44.162Z",
+      "is_obsolete": false,
+      "name": "Lamjung",
+      "province": 4
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 39,
+    "fields": {
+      "idx": "nGstTyKLwQgd8rFigCCx6a",
+      "created_on": "2018-08-09T06:15:10Z",
+      "modified_on": "2019-07-09T06:06:31.872Z",
+      "is_obsolete": false,
+      "name": "Manang",
+      "province": 4
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 40,
+    "fields": {
+      "idx": "VTksYoJwLU7erGSE7vVZcL",
+      "created_on": "2018-08-09T06:15:10.868Z",
+      "modified_on": "2019-07-09T05:56:44.808Z",
+      "is_obsolete": false,
+      "name": "Syangja",
+      "province": 4
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 41,
+    "fields": {
+      "idx": "rAA7vR6yNzKRZM89ZPaHGj",
+      "created_on": "2018-08-09T06:15:10.879Z",
+      "modified_on": "2019-07-09T05:56:44.822Z",
+      "is_obsolete": false,
+      "name": "Tanahun",
+      "province": 4
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 42,
+    "fields": {
+      "idx": "q2snoDpyjT9DvEujJijuEL",
+      "created_on": "2018-08-09T06:15:10.890Z",
+      "modified_on": "2019-07-09T05:56:42.688Z",
+      "is_obsolete": false,
+      "name": "Arghakhanchi",
+      "province": 5
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 43,
+    "fields": {
+      "idx": "RAsxRrvJirkoGQZU52CsFN",
+      "created_on": "2018-08-09T06:15:10.902Z",
+      "modified_on": "2019-07-09T05:56:43.690Z",
+      "is_obsolete": false,
+      "name": "Gulmi",
+      "province": 5
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 44,
+    "fields": {
+      "idx": "dWgJbGmxWB6EWh7SSXrmQM",
+      "created_on": "2018-08-09T06:15:10.913Z",
+      "modified_on": "2019-07-09T05:56:44.010Z",
+      "is_obsolete": false,
+      "name": "Kapilvastu",
+      "province": 5
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 45,
+    "fields": {
+      "idx": "ZHMMvCz3sWBh4P4UwXjHNa",
+      "created_on": "2018-08-09T06:15:10Z",
+      "modified_on": "2019-07-09T06:11:38.059Z",
+      "is_obsolete": false,
+      "name": "Nawalpur",
+      "province": 4
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 46,
+    "fields": {
+      "idx": "kSP8QuuxYeDDZxR5D44Qr9",
+      "created_on": "2018-08-09T06:15:10.936Z",
+      "modified_on": "2019-07-09T05:56:44.341Z",
+      "is_obsolete": false,
+      "name": "Palpa",
+      "province": 5
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 47,
+    "fields": {
+      "idx": "k2JhP5WBCgnGha9EL4bEdY",
+      "created_on": "2018-08-09T06:15:10.946Z",
+      "modified_on": "2019-07-09T05:56:44.548Z",
+      "is_obsolete": false,
+      "name": "Rupandehi",
+      "province": 5
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 48,
+    "fields": {
+      "idx": "5bVxkwEUyzXYg7wkobxmwk",
+      "created_on": "2018-08-09T06:15:10.957Z",
+      "modified_on": "2019-07-09T05:56:42.807Z",
+      "is_obsolete": false,
+      "name": "Baglung",
+      "province": 4
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 49,
+    "fields": {
+      "idx": "zNSESsnLpvYGSei4vEmWrG",
+      "created_on": "2018-08-09T06:15:10Z",
+      "modified_on": "2019-07-09T06:06:44.767Z",
+      "is_obsolete": false,
+      "name": "Mustang",
+      "province": 4
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 50,
+    "fields": {
+      "idx": "mRrmoaUjLNZVnuNHaiLiA9",
+      "created_on": "2018-08-09T06:15:10.981Z",
+      "modified_on": "2019-07-09T05:56:44.281Z",
+      "is_obsolete": false,
+      "name": "Myagdi",
+      "province": 4
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 51,
+    "fields": {
+      "idx": "uNiSBBo8LTnAvyEuBwyMif",
+      "created_on": "2018-08-09T06:15:10.992Z",
+      "modified_on": "2019-07-09T05:56:44.370Z",
+      "is_obsolete": false,
+      "name": "Parbat",
+      "province": 4
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 52,
+    "fields": {
+      "idx": "YxtVXxhSN82iQhmKLQ8m5L",
+      "created_on": "2018-08-09T06:15:11.003Z",
+      "modified_on": "2019-07-09T05:56:43.298Z",
+      "is_obsolete": false,
+      "name": "Dang",
+      "province": 5
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 53,
+    "fields": {
+      "idx": "FHgjzcpgkAu45dbBmHdH2a",
+      "created_on": "2018-08-09T06:15:11.015Z",
+      "modified_on": "2019-07-09T05:56:44.403Z",
+      "is_obsolete": false,
+      "name": "Pyuthan",
+      "province": 5
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 54,
+    "fields": {
+      "idx": "LGUzmJXAx4ByctikacMzk7",
+      "created_on": "2018-08-09T06:15:11.026Z",
+      "modified_on": "2019-07-09T05:56:44.531Z",
+      "is_obsolete": false,
+      "name": "Rolpa",
+      "province": 5
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 55,
+    "fields": {
+      "idx": "YsS25HbkCgFYdgANMFQyPN",
+      "created_on": "2018-08-09T06:15:11Z",
+      "modified_on": "2019-07-09T06:13:46.973Z",
+      "is_obsolete": false,
+      "name": "Eastern Rukum",
+      "province": 5
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 56,
+    "fields": {
+      "idx": "3UWzR5Yf9gYHMeukKpSVPX",
+      "created_on": "2018-08-09T06:15:11.048Z",
+      "modified_on": "2019-07-09T05:56:44.568Z",
+      "is_obsolete": false,
+      "name": "Salyan",
+      "province": 6
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 57,
+    "fields": {
+      "idx": "QastiAdksN5DM8yMnriUq5",
+      "created_on": "2018-08-09T06:15:11.060Z",
+      "modified_on": "2019-07-09T05:56:43.531Z",
+      "is_obsolete": false,
+      "name": "Dolpa",
+      "province": 6
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 58,
+    "fields": {
+      "idx": "h7kFvdKqkb9EWa32uh96CX",
+      "created_on": "2018-08-09T06:15:11.078Z",
+      "modified_on": "2019-07-09T05:56:43.733Z",
+      "is_obsolete": false,
+      "name": "Humla",
+      "province": 5
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 59,
+    "fields": {
+      "idx": "kqYo9CwwBUhFmUNcToAkSH",
+      "created_on": "2018-08-09T06:15:11.090Z",
+      "modified_on": "2019-07-09T05:56:43.877Z",
+      "is_obsolete": false,
+      "name": "Jumla",
+      "province": 6
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 60,
+    "fields": {
+      "idx": "bADdDVRj8S2DhuuBgvHRVD",
+      "created_on": "2018-08-09T06:15:11.101Z",
+      "modified_on": "2019-07-09T05:56:43.951Z",
+      "is_obsolete": false,
+      "name": "Kalikot",
+      "province": 6
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 61,
+    "fields": {
+      "idx": "pct2KqyQDAvLXYikKVD2a2",
+      "created_on": "2018-08-09T06:15:11.113Z",
+      "modified_on": "2019-07-09T05:56:44.261Z",
+      "is_obsolete": false,
+      "name": "Mugu",
+      "province": 6
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 62,
+    "fields": {
+      "idx": "UxqRqktzbov7gD62RDmatB",
+      "created_on": "2018-08-09T06:15:11.128Z",
+      "modified_on": "2019-07-09T05:56:42.990Z",
+      "is_obsolete": false,
+      "name": "Banke",
+      "province": 5
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 63,
+    "fields": {
+      "idx": "PbaiiSzqRk82CYGcFtjTVL",
+      "created_on": "2018-08-09T06:15:11.150Z",
+      "modified_on": "2019-07-09T05:56:43.094Z",
+      "is_obsolete": false,
+      "name": "Bardiya",
+      "province": 5
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 64,
+    "fields": {
+      "idx": "NugQQfUZfZ29HzQk9CzLq7",
+      "created_on": "2018-08-09T06:15:11.173Z",
+      "modified_on": "2019-07-09T05:56:43.258Z",
+      "is_obsolete": false,
+      "name": "Dailekh",
+      "province": 6
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 65,
+    "fields": {
+      "idx": "di4QAxycn4bLGCTRbSUKTC",
+      "created_on": "2018-08-09T06:15:11.193Z",
+      "modified_on": "2019-07-09T05:56:43.812Z",
+      "is_obsolete": false,
+      "name": "Jajarkot",
+      "province": 6
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 66,
+    "fields": {
+      "idx": "xeiy329Mspbi22St2revQj",
+      "created_on": "2018-08-09T06:15:11.217Z",
+      "modified_on": "2019-07-09T05:56:44.791Z",
+      "is_obsolete": false,
+      "name": "Surkhet",
+      "province": 6
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 67,
+    "fields": {
+      "idx": "YZT96t8QG9B9LHh3eyTqZV",
+      "created_on": "2018-08-09T06:15:11.239Z",
+      "modified_on": "2019-07-09T05:56:42.246Z",
+      "is_obsolete": false,
+      "name": "Achham",
+      "province": 7
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 68,
+    "fields": {
+      "idx": "nqTo8MRq5gVgzsT8dcABXB",
+      "created_on": "2018-08-09T06:15:11.261Z",
+      "modified_on": "2019-07-09T05:56:42.901Z",
+      "is_obsolete": false,
+      "name": "Bajhang",
+      "province": 7
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 69,
+    "fields": {
+      "idx": "mygK9fiqudiAs8jhRKXqdn",
+      "created_on": "2018-08-09T06:15:11.283Z",
+      "modified_on": "2019-07-09T05:56:42.952Z",
+      "is_obsolete": false,
+      "name": "Bajura",
+      "province": 7
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 70,
+    "fields": {
+      "idx": "BZcJt4a9FgcaXDM5QcnQrg",
+      "created_on": "2018-08-09T06:15:11.306Z",
+      "modified_on": "2019-07-09T05:56:43.577Z",
+      "is_obsolete": false,
+      "name": "Doti",
+      "province": 7
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 71,
+    "fields": {
+      "idx": "jLuL8JZ9EjMhvU8nLdhaWb",
+      "created_on": "2018-08-09T06:15:11.329Z",
+      "modified_on": "2019-07-09T05:56:43.909Z",
+      "is_obsolete": false,
+      "name": "Kailali",
+      "province": 7
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 72,
+    "fields": {
+      "idx": "FZNaFnVLUdTucawuVKNQDY",
+      "created_on": "2018-08-09T06:15:11.348Z",
+      "modified_on": "2019-07-09T05:56:42.857Z",
+      "is_obsolete": false,
+      "name": "Baitadi",
+      "province": 7
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 73,
+    "fields": {
+      "idx": "aFF8j5KMQvxB4obHZNUNaS",
+      "created_on": "2018-08-09T06:15:11.356Z",
+      "modified_on": "2019-07-09T05:56:43.216Z",
+      "is_obsolete": false,
+      "name": "Dadeldhura",
+      "province": 7
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 74,
+    "fields": {
+      "idx": "t2BxPuVrfpoKkrDsSjNpVX",
+      "created_on": "2018-08-09T06:15:11.367Z",
+      "modified_on": "2019-07-09T05:56:43.323Z",
+      "is_obsolete": false,
+      "name": "Darchula",
+      "province": 7
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 75,
+    "fields": {
+      "idx": "oPJxnsCTALtmyvEmHB99qZ",
+      "created_on": "2018-08-09T06:15:11.377Z",
+      "modified_on": "2019-07-09T05:56:43.977Z",
+      "is_obsolete": false,
+      "name": "Kanchanpur",
+      "province": 7
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 76,
+    "fields": {
+      "idx": "Zq4eiixEEuQXcJu8Fsvxsi",
+      "created_on": "2019-07-09T06:13:50Z",
+      "modified_on": "2019-07-09T06:14:35.499Z",
+      "is_obsolete": false,
+      "name": "Parasi",
+      "province": 5
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 77,
+    "fields": {
+      "idx": "nTUuypA9wmvdKg5eMiwVEj",
+      "created_on": "2019-07-09T06:14:38Z",
+      "modified_on": "2019-07-09T06:39:21.158Z",
+      "is_obsolete": false,
+      "name": "Western Rukum",
+      "province": 6
+    }
+  },
+  {
+    "model": "geo.district",
+    "pk": 78,
+    "fields": {
+      "idx": "nTUuypA9wasdf5eMiwVEj",
+      "created_on": "2019-07-09T06:14:38Z",
+      "modified_on": "2019-07-09T06:39:21.158Z",
+      "is_obsolete": false,
+      "name": "Western Rukum F",
+      "province": 6
+    }
+  }
+]

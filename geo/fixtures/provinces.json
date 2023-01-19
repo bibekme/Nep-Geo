@@ -1,0 +1,79 @@
+[
+  {
+    "model": "geo.province",
+    "pk": 1,
+    "fields": {
+      "idx": "9JjRso8iLCTU7Br5EHiLcN",
+      "created_on": "2019-07-09T05:43:12.556Z",
+      "modified_on": "2019-07-09T05:43:48.354Z",
+      "is_obsolete": false,
+      "name": "Province No. 1"
+    }
+  },
+  {
+    "model": "geo.province",
+    "pk": 2,
+    "fields": {
+      "idx": "r7L8qa57nPjQjgo6bJ5UTA",
+      "created_on": "2019-07-09T05:43:12.557Z",
+      "modified_on": "2019-07-09T05:43:48.354Z",
+      "is_obsolete": false,
+      "name": "Province No. 2"
+    }
+  },
+  {
+    "model": "geo.province",
+    "pk": 3,
+    "fields": {
+      "idx": "JLVQRg77hdZjEVPsN9ZBYi",
+      "created_on": "2019-07-09T05:43:12.557Z",
+      "modified_on": "2019-07-09T05:43:48.354Z",
+      "is_obsolete": false,
+      "name": "Province No. 3"
+    }
+  },
+  {
+    "model": "geo.province",
+    "pk": 4,
+    "fields": {
+      "idx": "odPPGw2vyWTBr8vknxXepW",
+      "created_on": "2019-07-09T05:43:12.557Z",
+      "modified_on": "2019-07-09T05:43:48.354Z",
+      "is_obsolete": false,
+      "name": "Gandaki"
+    }
+  },
+  {
+    "model": "geo.province",
+    "pk": 5,
+    "fields": {
+      "idx": "JhTGhxNeddAyDMXN9wrzVK",
+      "created_on": "2019-07-09T05:43:12.557Z",
+      "modified_on": "2019-07-09T05:43:48.354Z",
+      "is_obsolete": false,
+      "name": "Province No. 5"
+    }
+  },
+  {
+    "model": "geo.province",
+    "pk": 6,
+    "fields": {
+      "idx": "42pKftQrBa734LfHYXVqZR",
+      "created_on": "2019-07-09T05:43:12.557Z",
+      "modified_on": "2019-07-09T05:43:48.354Z",
+      "is_obsolete": false,
+      "name": "Karnali"
+    }
+  },
+  {
+    "model": "geo.province",
+    "pk": 7,
+    "fields": {
+      "idx": "Ux6SS7MEcTAqxZRFtX37VA",
+      "created_on": "2019-07-09T05:43:12.557Z",
+      "modified_on": "2019-07-09T05:43:48.355Z",
+      "is_obsolete": false,
+      "name": "Sudurpashchim"
+    }
+  }
+]
