@@ -81,13 +81,14 @@ WSGI_APPLICATION = "core.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "geo_np",
-        "USER": "postgres",
-        "PASSWORD": "password",
-        "HOST": "localhost",
-        "PORT": "5432"
+        "NAME": "<YOUR_DB_NAME>",
+        "USER": "<YOUR_DB_USERNAME>",
+        "PASSWORD": "<YOUR_DB_PASSWORD>",
+        "HOST": "<YOUR_DB_HOST>",
+        "PORT": "<YOUR_DB_PORT>"
     }
 }
+
 
 
 # Password validation
